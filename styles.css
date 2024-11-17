@@ -1,0 +1,16 @@
+/* Базалық стильдер */
+body {
+    font-family: 'Roboto', sans-serif;
+    background-color: #f4f4f4;
+    margin: 0;
+    padding: 0;
+}
+
+.container {
+    width: 80%;
+    margin: 0 auto;
+}
+
+.title {
+    font-size: 36px;
+    font-weight
